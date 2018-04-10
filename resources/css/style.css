@@ -74,6 +74,12 @@ ul {
   }
 }
 
+@media only screen and (max-width: 481px) {
+.jumbotron h1 {
+    font-size: 3rem;
+  }
+}
+
 .jumbotron p {
   color: #ffffff;
   text-shadow: 2px 2px black;
