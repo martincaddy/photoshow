@@ -174,3 +174,9 @@ ul {
   width: 100%;
   margin-left: 0;
 }
+
+@media only screen and (max-width: 320px) {
+.foot p {
+    display: none;
+  }
+}
